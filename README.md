@@ -1,1 +1,12 @@
-<img src="https://i.ibb.co/nqk53pVZ/Screenshot-2026-08-22-133420.png" alt="Screenshot 2026 08 22 133420" border="0">
+# Calculator Android APK
+
+This repository wraps the supplied single-file HTML calculator/gallery app in a native Android WebView.
+
+## GitHub APK build
+1. Upload all files/folders in this project to a GitHub repository.
+2. Push to `main` (or `master`).
+3. Open **Actions → Build Android APK**.
+4. Open the completed workflow run.
+5. Download the `snapcalcultors-release-apk` artifact.
+
+The original HTML is kept at `app/src/main/assets/index.html`.
